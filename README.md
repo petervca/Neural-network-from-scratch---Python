@@ -5,4 +5,4 @@ Files:
 - Code (main.py)
 - Hand drawn digit (number.png)
 - MNIST dataset () 
-- Saved parameters (weights
+- Saved parameters (weights_biases.pkl)
