@@ -4,5 +4,5 @@ Neural network from scratch in python to classify hand drawn digits. The network
 Files:
 - Code (main.py)
 - Hand drawn digit (number.png)
-- MNIST dataset (http://yann.lecun.com/exdb/mnist/) 
 - Saved parameters (weights_biases.pkl)
+- MNIST dataset (http://yann.lecun.com/exdb/mnist/) 
